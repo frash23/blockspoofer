@@ -1,0 +1,9 @@
+name: BlockSpoofer
+version: "1.0-RC1"
+author: "frash23"
+main: "com.frash23.blockspoofer.BlockSpoofer"
+depend: [ ProtocolLib ]
+commands:
+  prisoffblockspoofer:
+    aliases: [ psb, blockspoofer ]
+    permission: blockspoofer.admin
